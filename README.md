@@ -2,7 +2,7 @@
 deeplearning detection
 
 ## WSLO-弱监督检测
-1 Weakly Supervised Object Detection via Object-Specific Pixel Gradient*
+1 Weakly Supervised Object Detection via Object-Specific Pixel Gradient
 
 2 Learning Deep Features for Discriminative Localization
 
