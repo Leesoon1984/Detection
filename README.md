@@ -32,4 +32,5 @@ deeplearning detection
 
 [code-SPG](https://github.com/xiaomengyc/SPG)
 
+8 [Generative Adversarial Learning Towards Fast Weakly Supervised Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Generative_Adversarial_Learning_CVPR_2018_paper.pdf) ,CVPR2018
 
