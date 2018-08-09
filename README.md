@@ -28,3 +28,7 @@ deeplearning detection
 
 [代码contextlocnet](https://github.com/vadimkantorov/contextlocnet)
 
+7 Self-produced Guidance for Weakly-supervised Object Localization(https://arxiv.org/abs/1807.08902v1),ECCV2018
+[code-SPG](https://github.com/xiaomengyc/SPG)
+
+
